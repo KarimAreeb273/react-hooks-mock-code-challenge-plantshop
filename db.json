@@ -41,6 +41,102 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 8
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 9
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 10
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 11
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 12
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 13
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 14
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 15
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 16
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 17
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 18
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 19
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 20
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 21
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 22
+    },
+    {
+      "name": "Areeb",
+      "image": "https://www.theflavorbender.com/wp-content/uploads/2019/01/Easy-Chicken-Ramen-Featured.jpg",
+      "price": "7",
+      "id": 23
     }
   ]
 }
